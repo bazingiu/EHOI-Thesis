@@ -1,9 +1,8 @@
+# Thesis Description
 
-# Descrizione della Tesi
+In recent years, rapid technological advancements have led to significant changes in the economic, social, and cultural landscape, with relevant impacts on the world of work.
 
-Negli ultimi anni, i veloci progressi tecnologici hanno portato a significativi cambiamenti nel panorama economico, sociale e culturale, con impatti rilevanti nel mondo del lavoro.
+My thesis focuses on the use of wearable devices in the industrial context to offer "active" support to workers.
 
-La mia tesi si concentra sull'utilizzo di dispositivi indossabili nel contesto industriale per offrire un supporto "attivo" ai lavoratori.
-
-## Slide della presentazione
+## Presentation Slides
 https://docs.google.com/presentation/d/12F7-gsFnM0q2zxZPzIw89d8Yr4WYvI6P/edit#slide=id.p2
